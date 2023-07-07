@@ -1,0 +1,13 @@
+C:\Users\filip\Desktop\Integrirani sistemi\Domasna1_203141\TicketShop\TicketShop.Repository\bin\Debug\netcoreapp3.1\TicketShop.Repository.deps.json
+C:\Users\filip\Desktop\Integrirani sistemi\Domasna1_203141\TicketShop\TicketShop.Repository\bin\Debug\netcoreapp3.1\TicketShop.Repository.dll
+C:\Users\filip\Desktop\Integrirani sistemi\Domasna1_203141\TicketShop\TicketShop.Repository\bin\Debug\netcoreapp3.1\TicketShop.Repository.pdb
+C:\Users\filip\Desktop\Integrirani sistemi\Domasna1_203141\TicketShop\TicketShop.Repository\bin\Debug\netcoreapp3.1\TicketShop.Domain.dll
+C:\Users\filip\Desktop\Integrirani sistemi\Domasna1_203141\TicketShop\TicketShop.Repository\bin\Debug\netcoreapp3.1\TicketShop.Domain.pdb
+C:\Users\filip\Desktop\Integrirani sistemi\Domasna1_203141\TicketShop\TicketShop.Repository\obj\Debug\netcoreapp3.1\TicketShop.Repository.csproj.AssemblyReference.cache
+C:\Users\filip\Desktop\Integrirani sistemi\Domasna1_203141\TicketShop\TicketShop.Repository\obj\Debug\netcoreapp3.1\TicketShop.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Desktop\Integrirani sistemi\Domasna1_203141\TicketShop\TicketShop.Repository\obj\Debug\netcoreapp3.1\TicketShop.Repository.AssemblyInfoInputs.cache
+C:\Users\filip\Desktop\Integrirani sistemi\Domasna1_203141\TicketShop\TicketShop.Repository\obj\Debug\netcoreapp3.1\TicketShop.Repository.AssemblyInfo.cs
+C:\Users\filip\Desktop\Integrirani sistemi\Domasna1_203141\TicketShop\TicketShop.Repository\obj\Debug\netcoreapp3.1\TicketShop.Repository.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\Integrirani sistemi\Domasna1_203141\TicketShop\TicketShop.Repository\obj\Debug\netcoreapp3.1\TicketShop.Repository.csproj.CopyComplete
+C:\Users\filip\Desktop\Integrirani sistemi\Domasna1_203141\TicketShop\TicketShop.Repository\obj\Debug\netcoreapp3.1\TicketShop.Repository.dll
+C:\Users\filip\Desktop\Integrirani sistemi\Domasna1_203141\TicketShop\TicketShop.Repository\obj\Debug\netcoreapp3.1\TicketShop.Repository.pdb
